@@ -7,5 +7,18 @@ In this project, a convolutional neural network (CNN) was used to classify image
 ### Key Features:
 * Model: EfficientNetB0, a highly efficient CNN architecture.
 
-* Accuracy: The model achieves approximately 94% accuracy in classifying animal images across the ten classes.
-* Loss: 
+* Accuracy: The model achieves approximately 94% accuracy in classifying two categories of skin spots.
+* Loss: The model achieves approximately 0.15 loss
+
+### Key Features
+* Model: EfficientNetB0
+
+EfficientNetB0 is a highly efficient CNN architecture that scales up in width, depth, and resolution while maintaining performance. It’s known for its balance of efficiency and accuracy.
+* Accuracy: Approximately 94%
+
+The model demonstrates high accuracy in distinguishing between benign and malignant skin spots.
+* Loss: Approximately 0.15
+
+The model achieves a low loss value, indicating effective training and good performance in classification tasks.
+Model Architecture
+The EfficientNetB0 model is used as the backbone for this classification task. It has been pre-trained on a large dataset
