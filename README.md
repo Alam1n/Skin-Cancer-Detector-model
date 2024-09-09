@@ -16,3 +16,5 @@ The model demonstrates high accuracy in distinguishing between benign and malign
 The model achieves a low loss value, indicating effective training and good performance in classification tasks.
 Model Architecture
 The EfficientNetB0 model is used as the backbone for this classification task. It has been pre-trained on a large dataset
+
+Link to the Dataset on kaggle: [ Skin Cancer Data set](https://www.kaggle.com/datasets/shashanks1202/skin-cancer-dataset)
